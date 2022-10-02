@@ -6,3 +6,20 @@ h1 {
 h1:hover {
     color: red;
 }
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(purple, lavender);
+    color: white;
+    padding: 5px;
+    margin-left: 150px;
+}
+
+.a {
+    color: blue;
+}
+
+.b {
+    color: darkmagenta;
+    font-size: larger;
+}
